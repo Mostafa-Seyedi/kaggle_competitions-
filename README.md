@@ -17,9 +17,9 @@ I've organized my work into categories based on the nature of the problem:
 
 | Project Name | Category | Key Techniques | Status |
 | :--- | :--- | :--- | :--- |
-| [Titanic Survival](./Classification/Titanic) | Classification | Feature Engineering, Random Forest | Completed |
-| [House Prices](./Regression/HousePrices) | Regression | Log Transforms, XGBoost, Optuna | In Progress |
-| [Store Sales](./Regression/StoreSales) | Time Series | Lag Features, Moving Averages | Completed |
+| [Titanic Survival](./Classification/Titanic) | Classification | Random Forest | Completed |
+| [Exam_Q](./Regression/Regression_pipeline_challenge_1) | Regression | Preprocessing | Pipeline | competed |
+| [MNIST](./Classification/MNIST) | Pipeline | Completed |
 
 ---
 
@@ -27,9 +27,8 @@ I've organized my work into categories based on the nature of the problem:
 
 * **Languages:** Python
 * **Libraries:** Pandas, NumPy, Scikit-Learn
-* **Boosting:** XGBoost, LightGBM, CatBoost
 * **Optimization:** Optuna (Hyperparameter Tuning)
-* **Environment:** Jupyter Notebooks / Kaggle Kernels
+* **Environment:** Jupyter Notebooks / Kaggle Kernels 
 
 ---
 
@@ -38,7 +37,7 @@ I've organized my work into categories based on the nature of the problem:
 For every competition, I follow a systematic approach:
 1. **EDA:** Visualizing distributions, correlations, and missing data.
 2. **Preprocessing:** Handling outliers, encoding categorical variables, and scaling.
-3. **Feature Engineering:** Creating new features to capture underlying patterns.
+3. **Feature Engineering:** Creating new features to capture underlying patterns. (Sometimes)
 4. **Modeling:** Training baseline models and moving toward complex ensembles.
 5. **Evaluation:** Tuning models based on competition-specific metrics (LogLoss, RMSE, etc.).
 
