@@ -17,7 +17,7 @@ I've organized my work into categories based on the nature of the problem:
 
 | Project Name | Category | Key Techniques | Status |
 | :--- | :--- | :--- | :--- |
-| [Titanic Survival](./Classification/Titanic) | Classification | Random Forest | Completed |
+| [Titanic Survival](./Classification/titanic) | Classification | Random Forest | Completed |
 | [Exam_Q](./Regression/Regression_pipeline_challenge_1) | Regression | Preprocessing | Pipeline | competed |
 | [MNIST](./Classification/MNIST) | Pipeline | Completed |
 
